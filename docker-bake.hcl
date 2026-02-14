@@ -1,5 +1,5 @@
 variable "VERSION" {
-  # renovate: datasource=repology depName=alpine_3_21/tinyproxy
+  # renovate: datasource=repology depName=alpine_3_23/tinyproxy
   default = "1.11.2-r0"
 }
 
